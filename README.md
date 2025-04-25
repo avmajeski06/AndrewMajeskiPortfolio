@@ -1,4 +1,4 @@
-# AndrewMajeskiPortfolio
+# Andrew_Majeski_Portfolio
 This is a portfolio for Andrew Majeski.
 # Title
 
@@ -12,6 +12,7 @@ Loyola University, MD
 
 #### Project 1 Title
  - image
+ ![](imagesforgithub/projectimage.jpg)
  - Report
 
 ***
